@@ -1,5 +1,6 @@
 package com.java5.exam.entity;
 
+import com.java5.exam.constant.Constant;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
